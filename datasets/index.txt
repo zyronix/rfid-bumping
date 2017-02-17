@@ -1,0 +1,12 @@
+dataset1: partial 1 key (same note as dataset 2)
+dataset2: key 1 (key field is empty, but can be derived from file name)
+dataset5: full 2 key
+dataset6: full 3 key
+dataset7: 50% of 4 key
+dataset8: 50% of 4 key
+dataset9: 50% of 5 key
+dataset10: 40% of 5 key
+dataset11: 100% for 1 key hardnested
+dataset12: 40% for 2 key hardnested
+dataset13: 25% for 3 key hardnested
+dataset14: 40% for 3 key hardnested

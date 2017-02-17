@@ -1,0 +1,103 @@
+                                   keys activate default nested hard data
+1   7 A 3A1835C9AC82|11 A 0848B033A417|        0       3     25   NA    4
+2   7 A C937B0A9FE36|11 A BB6FD56DDEDA|        0       3      5   NA    5
+3   7 A E7187AA066C2|11 A BF5C5AA016DE|        0       3      4   NA    5
+4   7 A 34F4749E8687|11 A 6BC30B1B5C88|        0       3     18   NA    4
+5   7 A 716864A6B22B|11 A 32CE23E87D4C|        0       3     74   NA    5
+6   7 A 5E6D4939CC67|11 A 57A1783F7009|        0       3     35   NA    4
+7   7 A 23332138E4DB|11 A C4A8575ABD8C|        0       3      8   NA    5
+9   7 A 50A9F898940F|11 A 4DECA2C1B10F|        0       3     16   NA    4
+10  7 A 81AB9D7672AB|11 A 521573B6842C|        0       3      7   NA    5
+11  7 A 457060096080|11 A 222BDA5CB097|        0       3     17   NA    5
+13  7 A 1AC4B0F6992D|11 A BF13D6984788|        0       3     18   NA    5
+15  7 A 14296602F7DD|11 A 50301E06C1B2|        0       3     15   NA    4
+16  7 A 244F0B2F0C05|11 A B3347B1C8C2B|        0       3     61   NA    5
+18  7 A 896C76697217|11 A 5E0E61E36E7B|        0       3     30   NA    5
+19  7 A 5E657CC7C7B7|11 A 11DCA7B668A3|        0       3      6   NA    4
+20  7 A DEADB034EF4F|11 A 1EBF538F8931|        0       3     16   NA    4
+21  7 A C9D61DBF888C|11 A 5BD82DC54D3B|        0       3     18   NA    4
+23  7 A 01A744961C7C|11 A E1D5AEE8D6A2|        0       3     33   NA    4
+24  7 A D4EB079175C6|11 A 12B1F406132C|        0       3    108   NA    4
+25  7 A 497B44CA86DD|11 A 5A40C8F17633|        0       3     10   NA    5
+27  7 A 7CBF67B7420E|11 A 7F6435BF929C|        0       3      5   NA    5
+28  7 A 49396FB4930C|11 A 45851CF11053|        0       3     17   NA    4
+29  7 A 62F04A09FE69|11 A 3ACADEFDF6A2|        0       3     10   NA    4
+30  7 A C9BC473CAC91|11 A A58A683DE939|        0       3      8   NA    5
+35  7 A 589CA176FCE1|11 A E2964DA2417D|        1       2      9   NA    4
+36  7 A 92DCB073EF4C|11 A CA4F8876B323|        0       3    102   NA    4
+37  7 A 74674ED990F4|11 A 1CC463D914AB|        0       3     11   NA    4
+38  7 A E8B051566EDC|11 A A802EDA35458|        0       3     16   NA    4
+39  7 A 3CF0598494B4|11 A F78FA62756B3|        0       3     13   NA    4
+40  7 A 8D16B1807998|11 A CA312C7705ED|        0       3     54   NA    5
+41  7 A 69236A8D20E9|11 A 8F6B4EA88174|        0       3     13   NA    4
+42  7 A 6944087FCDDE|11 A 05BC30E3800D|        0       3     60   NA    4
+43  7 A BA2082DFDBE6|11 A 57427BC1BDB6|        0       4      6   NA    4
+44  7 A 395EE8130D88|11 A BE3A196A7F0A|        0       3     48   NA    5
+45  7 A 94A04916C60E|11 A FAD94D48AB9F|        0       3    101   NA    5
+46  7 A 7E3CD24E1883|11 A A311A88A30BC|        0       3     59   NA    5
+47  7 A 4458E3193B93|11 A 559047FC31D1|        0       3      8   NA    4
+48  7 A 69A1822A6211|11 A C814AEC89EB6|        0       3     11   NA    5
+49  7 A 72915D44B15E|11 A C02FC6C66DF1|        0       3      6   NA    4
+50  7 A 4960C05CE6AC|11 A F7A37BF8DC6A|        0       3     19   NA    4
+51  7 A 905CC18EB985|11 A BB8EC8258924|        0       3     42   NA    4
+52  7 A BBAFD2C515F4|11 A C7905CD51B91|        0       3    125   NA    4
+53  7 A 89F77C10F59B|11 A BA71EFC57F70|        0       3     52   NA    5
+54  7 A 9E2E815342B7|11 A 19E757774826|        0       3      3   NA    5
+56  7 A 0A824B17DB69|11 A 6297875AD15C|        0       3     33   NA    5
+57  7 A 805E01101A63|11 A F575B731E79C|        0       3     25   NA    5
+58  7 A C1469B81076A|11 A 14D54EE4ADDC|        0       3     10   NA    5
+59  7 A B3602067D016|11 A 8B0B603EDBF0|        0       3     45   NA    4
+60  7 A C35C61304C29|11 A BE33B96F5B6E|        0       3      8   NA    5
+61  7 A 870544A347A2|11 A 5C55305F44C0|        0       3     30   NA    4
+62  7 A EA165F663AE6|11 A 9D5C05AABC22|        0       3      5   NA    5
+64  7 A FAAD8103E28D|11 A 3DB0B7F3D59C|        0       3     16   NA    4
+67  7 A 4D0FD7FE0309|11 A ABF76360FA76|        0       3      7   NA    5
+68  7 A D702E098375D|11 A 47D96CE05027|        0       3     22   NA    4
+69  7 A 4007957B56A6|11 A 3468AA2ACC50|        0       2     50   NA    4
+70  7 A ECDCD0089C4F|11 A 79AC4C98464C|        0       4     10   NA    4
+71  7 A AE12A0F71671|11 A F29691E15262|        0       3     86   NA    5
+73  7 A B3DA88370445|11 A 3604D6A00380|        0       3     12   NA    5
+74  7 A F57472DC8958|11 A 61A53BB2DE23|        0       3     10   NA    5
+75  7 A 229BAB335D12|11 A 8DDFE8B31C9E|        0       3      8   NA    5
+77  7 A FCF0F8D3E81B|11 A F4FD872A06F2|        0       3     14   NA    5
+78  7 A CD4FF9387614|11 A DE97FD85E1E4|        0       2      5   NA    5
+79  7 A 108990A84962|11 A 159AF1FE8925|        0       3      9   NA    5
+80  7 A 8F23C92E416E|11 A 65B7397E1E7F|        0       3      6   NA    5
+81  7 A 09FD802710E7|11 A F107C3DD994D|        0       3     15   NA    4
+83  7 A 99A25B327C97|11 A 6EAE0CC4B73F|        0       3     24   NA    4
+84  7 A 5967FC089855|11 A 1B2909601EAB|        0       3     11   NA    5
+85  7 A AB290C9B64FC|11 A 17D3A631E5DB|        0       3     10   NA    4
+86  7 A E03F0AC0D8DA|11 A 064362A7DBFE|        0       3     14   NA    4
+88  7 A 5A306334DB54|11 A AB4805624855|        0       3     13   NA    5
+89  7 A 78E7287AABAC|11 A B76E0F18E288|        0       3     10   NA    5
+90  7 A BD9EC1C32EEB|11 A A096570FF383|        0       3     25   NA    4
+91  7 A 458FB5A08233|11 A C363708F1B31|        0       3      9   NA    5
+92  7 A AA2DB22E33A5|11 A DA12D530EB81|        0       3     12   NA    5
+93  7 A 6D15265296EE|11 A 5CB9013A2421|        0       3     12   NA    5
+94  7 A C4C7007301BC|11 A E30C99CDCAC3|        0       3     26   NA    5
+96  7 A EE8227747677|11 A 3AD070C593A1|        0       2     11   NA    4
+97  7 A 02D550FB7D89|11 A 0DB787174C3A|        0       3     22   NA    4
+98  7 A C764B7B1EC53|11 A DDB91FC3FE8F|        0       3     15   NA    4
+99  7 A 18A582ED13AA|11 A BEBD82B84716|        0       3     12   NA    4
+100 7 A 55F7DC49D1C9|11 A 0915A5952581|        0       3     18   NA    4
+Number of valid entries: 81 
+
+ Default Time Summary:
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+  2.000   3.000   3.000   2.975   3.000   4.000 
+
+ Activation Time Summary:
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+0.00000 0.00000 0.00000 0.01235 0.00000 1.00000 
+
+ Nested Time Summary:
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+   3.00   10.00   15.00   24.59   26.00  125.00 
+
+ Hard Nested Time Summary:
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max.    NA's 
+     NA      NA      NA     NaN      NA      NA      81 
+
+ Data Time Summary:
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+  4.000   4.000   4.000   4.494   5.000   5.000 
